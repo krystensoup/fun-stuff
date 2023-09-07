@@ -1,0 +1,4 @@
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.AssemblyInfoInputs.cache
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.AssemblyInfo.cs
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.csproj.CoreCompileInputs.cache
