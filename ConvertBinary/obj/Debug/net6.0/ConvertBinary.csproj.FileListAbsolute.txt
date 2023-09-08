@@ -2,3 +2,13 @@ C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\Convert
 C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.AssemblyInfoInputs.cache
 C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.AssemblyInfo.cs
 C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.csproj.CoreCompileInputs.cache
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\bin\Debug\net6.0\ConvertBinary.exe
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\bin\Debug\net6.0\ConvertBinary.deps.json
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\bin\Debug\net6.0\ConvertBinary.runtimeconfig.json
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\bin\Debug\net6.0\ConvertBinary.dll
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\bin\Debug\net6.0\ConvertBinary.pdb
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.dll
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\refint\ConvertBinary.dll
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.pdb
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ConvertBinary.genruntimeconfig.cache
+C:\Users\kryst\OneDrive\Desktop\fun-stuff\ConvertBinary\obj\Debug\net6.0\ref\ConvertBinary.dll
